@@ -17,7 +17,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Solution {
+public class task027 {
 
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {

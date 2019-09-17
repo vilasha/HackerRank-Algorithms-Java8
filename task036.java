@@ -24,7 +24,7 @@
 	
 import java.util.*;
 
-public class Solution {
+public class task036 {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

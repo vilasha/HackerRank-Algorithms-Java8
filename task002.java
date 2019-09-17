@@ -14,7 +14,7 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Solution {
+public class task002 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

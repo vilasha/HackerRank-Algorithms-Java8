@@ -17,9 +17,10 @@
 	A decimal representing of the fraction of negative numbers in the array compared to its size.
 	A decimal representing of the fraction of zeros in the array compared to its size.	*/
 	
+import java.text.DecimalFormat;
 import java.util.*;
 
-public class Solution {
+public class task006 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

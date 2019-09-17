@@ -27,7 +27,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Solution {
+public class task032 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

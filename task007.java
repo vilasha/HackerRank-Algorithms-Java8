@@ -22,7 +22,7 @@
 	
 import java.util.*;
 
-public class Solution {
+public class task007 {
 
     static void staircase(int n) {
         for (int i = 0; i < n; i++) {

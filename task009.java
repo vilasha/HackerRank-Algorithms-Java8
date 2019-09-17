@@ -20,7 +20,7 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Solution {
+public class task009 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

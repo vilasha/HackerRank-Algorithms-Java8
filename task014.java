@@ -21,7 +21,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class task014 {
 
     static int getTotalX(int[] a, int[] b) {
         Arrays.sort(a);

@@ -27,7 +27,7 @@
 	
 import java.util.*;
 
-public class Solution {
+public class task049 {
     private static int N, K, xQ, yQ;
     private static Set<String> obstacles = new HashSet<>();
     

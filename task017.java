@@ -15,7 +15,7 @@
 	
 import java.util.*;
 
-public class Solution {
+public class task017 {
     static int divisibleSumPairs(int n, int k, int[] A) {
         int result = 0;
         for (int i = 0; i < n; i++)

@@ -19,7 +19,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task022 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

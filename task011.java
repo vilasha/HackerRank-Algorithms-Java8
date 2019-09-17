@@ -26,7 +26,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class task011 {
 
     static int[] gradingStudents(int[] grades) {
         for (int i = 0; i < grades.length; i++)

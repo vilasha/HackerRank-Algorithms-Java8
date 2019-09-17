@@ -22,7 +22,7 @@ import java.util.Set;
 import java.util.Collections;
 import java.util.stream.Collectors;
 
-public class Solution {
+public class task018 {
     static int migratoryBirds(int[] ar) {
         List list = Arrays.stream(ar).boxed().collect(Collectors.toList());
         Set<Integer> set = new TreeSet<>(list);

@@ -22,7 +22,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Solution {
+public class task040 {
 
     public static void main(String[] args) {
         int n;

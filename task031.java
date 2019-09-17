@@ -17,7 +17,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task031 {
 
     static int utopianTree(int n) {
         int height = 1;

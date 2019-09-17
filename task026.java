@@ -31,7 +31,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Solution {
+public class task026 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[][] matrix = new int[3][3];

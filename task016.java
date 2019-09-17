@@ -21,7 +21,7 @@ import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 
-public class Solution {
+public class task016 {
     static int solve(int[] s, int d, int m) {
         LinkedList<Integer> segment = new LinkedList<>
             (Arrays.stream(s).limit(m).boxed().collect(Collectors.toList()));

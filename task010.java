@@ -13,9 +13,11 @@
 	Convert and print the given time in -hour format, where .	*/
 	
 import java.io.*;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class Solution {
+public class task010 {
 
     static String timeConversion(String s) throws ParseException {
         SimpleDateFormat amPmFormat = new SimpleDateFormat("hh:mm:ssa");

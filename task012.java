@@ -41,7 +41,7 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Solution {
+public class task012 {
 
     // Complete the countApplesAndOranges function below.
     static void countApplesAndOranges(int s, int t, int a, int b, int[] apples, int[] oranges) {

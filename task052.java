@@ -28,7 +28,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.LinkedList;
 
-public class Solution {
+public class task052 {
     
     private static int i;
 

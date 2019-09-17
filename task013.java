@@ -23,7 +23,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class task013 {
 
     // Complete the kangaroo function below.
     static String kangaroo(int x1, int v1, int x2, int v2) {

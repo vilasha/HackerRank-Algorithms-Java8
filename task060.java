@@ -17,7 +17,7 @@
 
 import java.util.Scanner;
 
-public class Solution {
+public class task060 {
     
     private static int chocolateFeast(int n, int c, int m) {
         int result = n / c;

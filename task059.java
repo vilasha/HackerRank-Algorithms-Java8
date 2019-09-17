@@ -16,7 +16,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task059 {
     
     static String convertToString(int num){
         switch(num){

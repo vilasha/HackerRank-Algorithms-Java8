@@ -19,7 +19,7 @@
 	
 import java.util.*;
 
-public class Solution {
+public class task037 {
 
     public static void main(String[] args) {
         Map<Integer,Integer> p = new HashMap<>();

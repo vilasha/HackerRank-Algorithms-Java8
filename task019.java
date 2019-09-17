@@ -22,7 +22,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task019 {
 
     static String solve(int year) {
         String result = "";

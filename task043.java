@@ -21,7 +21,7 @@ import java.util.Scanner;
 import java.util.stream.Stream;
 import java.time.LocalDate;
 
-public class Solution {
+public class task043 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -15,7 +15,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task042 {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

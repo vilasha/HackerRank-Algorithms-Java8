@@ -156,3 +156,7 @@ task 074	Larry's Array (Medium, Max Score: 40, Success Rate: 76.13%)
 task 075	Almost Sorted (Medium, Max Score: 50, Success Rate: 72.70%)
 
 task 076	Matrix Layer Rotation (Hard, Max Score: 80, Success Rate: 75.36%)
+
+[taskCavityMap.java](taskCavityMap.java) --- [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) (Easy, Max Score: 30)
+
+[taskFairRations.java](taskFairRations.java): --- [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) (Easy, Max Score: 25)

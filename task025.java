@@ -20,7 +20,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task025 {
 
     static String catAndMouse(int x, int y, int z) {
         int difference = Math.abs(x-z) - Math.abs(y-z);

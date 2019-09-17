@@ -33,7 +33,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task053 {
 
     public static void main(String[] args) {
         String s = "";

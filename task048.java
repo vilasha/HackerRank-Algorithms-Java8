@@ -16,7 +16,7 @@
 import java.util.*;
 import java.util.stream.Collectors;
 
-public class Solution {
+public class task048 {
     
     static int max = 0;
 

@@ -26,7 +26,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class task015 {
 
     static int[] breakingRecords(int[] scores) {
         int minScore = scores[0];

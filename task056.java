@@ -18,7 +18,7 @@ import java.util.Set;
 import java.util.stream.Stream;
 import java.util.stream.Collectors;
 
-public class Solution {
+public class task056 {
     
     static int counter;
 

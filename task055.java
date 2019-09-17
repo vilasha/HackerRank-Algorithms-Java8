@@ -22,7 +22,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task055 {
 
     public static void main(String[] args) {
         long p, q;

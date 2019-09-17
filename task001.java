@@ -16,7 +16,7 @@
 	
 import java.util.*;
 
-public class Solution {
+public class task001 {
 
 
     static int solveMeFirst(int a, int b) {

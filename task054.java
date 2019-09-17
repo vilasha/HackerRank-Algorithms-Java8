@@ -22,7 +22,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Solution {
+public class task054 {
     
     private static String swapChars(char[] word) {
         int l = word.length;

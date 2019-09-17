@@ -22,7 +22,7 @@
 	
 import java.util.Scanner;
 
-public class Solution {
+public class task035 {
 
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

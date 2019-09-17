@@ -16,7 +16,7 @@
 import java.util.*;
 import java.util.stream.*;
 
-public class Solution {
+public class task008 {
 
     public static void main(String[] args) throws NoSuchElementException {
         Scanner scanner = new Scanner(System.in);

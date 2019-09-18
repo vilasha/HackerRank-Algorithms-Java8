@@ -159,4 +159,7 @@ task 076	Matrix Layer Rotation (Hard, Max Score: 80, Success Rate: 75.36%)
 
 [taskCavityMap.java](taskCavityMap.java) --- [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem) (Easy, Max Score: 30)
 
-[taskFairRations.java](taskFairRations.java): --- [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) (Easy, Max Score: 25)
+[taskFairRations.java](taskFairRations.java) --- [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem) (Easy, Max Score: 25)
+
+[taskManasaAndStones.java](taskManasaAndStones.java) --- [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones/problem) (Easy, Max Score: 30)
+

@@ -2,34 +2,22 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
+import java.util.stream.IntStream;
 
 public class taskManasaAndStones {
 
     // Complete the stones function below.
-
-    /**
-     * We don't need to keep all the permutations. We just need to keep possible stones on
-     * a previous step and possible stones on the current step. The first step we add manually,
-     * it is only one number "0". As we don't count this step, the for-loop starts from 1, not
-     * from 0 as usual.
-     * @param n number of steps
-     * @param a possible difference
-     * @param b possible difference
-     * @return all possible stone numbers sorted ascending
-     */
     static int[] stones(int n, int a, int b) {
-        Set<Integer> prevPermutation = new HashSet<>(),
-                      currentPermutation = new HashSet<>();
-        prevPermutation.add(0);
-        for (int i = 1; i < n; i++) {
-            for (Integer stone : prevPermutation) {
-                currentPermutation.add(stone + a);
-                currentPermutation.add(stone + b);
-            }
-            prevPermutation = currentPermutation;
-            currentPermutation = new HashSet<>();
-        }
-        return prevPermutation.stream().mapToInt(Integer::intValue).sorted().toArray();
+        int minNumberPossible = (n - 1) * Math.min(a, b);
+        int delta = Math.abs(a - b);
+
+        if (a == b || n < 2)
+            return new int[]{minNumberPossible};
+
+        return IntStream.range(0, n)
+                .map(i -> minNumberPossible + i * delta)
+                .toArray();
+
     }
 
     private static final Scanner scanner = new Scanner(System.in);
